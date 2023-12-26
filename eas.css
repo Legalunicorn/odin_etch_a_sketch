@@ -1,0 +1,16 @@
+.etchgrid{
+    border: 1px solid black;
+    /* height: 10px;
+    width: 10px; */
+    flex-shrink: 0;
+    
+}
+
+
+#main_body{
+    display: flex;
+}
+
+/* .squareCol{
+    display:flex;
+} */
